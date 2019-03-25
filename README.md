@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jh3y/parcel-boilerplate.svg?branch=master)](https://travis-ci.org/jh3y/parcel-boilerplate)
+[![Build Status](https://travis-ci.org/mig-25/parcel_boilerplate_sass_pug.svg?branch=master)](https://github.com/mig-25/parcel_boilerplate_sass_pug.git)
 
 # Parcel JS boilerplate
 
