@@ -1,11 +1,11 @@
 // object-fit polyfill run
-objectFitImages();
+objectFitImages()
 
 /* init Jarallax */
 jarallax(document.querySelectorAll('.jarallax'), {
-noIos: false,
-});
+    noIos: false,
+})
 
 jarallax(document.querySelectorAll('.jarallax-keep-img'), {
-keepImg: true,
-});
+    keepImg: true,
+})
