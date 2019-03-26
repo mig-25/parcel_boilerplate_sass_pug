@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 var body = document.getElementsByTagName('body')[0],
   nav = document.getElementById('nav')
 
