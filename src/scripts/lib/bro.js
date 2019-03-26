@@ -1,5 +1,8 @@
-const bro = (greetings) => {
+/* eslint-disable prettier/prettier */
+const bro = greetings => {
     return `${greetings}, bro`
 }
 
-export {bro}
+export {
+    bro
+}
