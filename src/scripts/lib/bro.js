@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 const bro = greetings => {
-    return `${greetings}, bro`
+    return `${greetings}, bro | `
 }
 
 export {
