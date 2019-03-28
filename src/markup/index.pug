@@ -1,4 +1,8 @@
 extends layout-blocks/layout.pug
+block append head
+  title #{title} Startsidan
+  meta(name='description', content="Kockeriet " +addedDescription)
+  meta(property='og:title', content= title +"Best food")
 block content
   .content
     h2.page1 A minimal boilerplate for using Parcel JS 📦
